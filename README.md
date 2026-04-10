@@ -1,7 +1,7 @@
 [![An image of @kalpitgoyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kalpitgoyal)](https://holopin.io/@kalpitgoyal)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kalpit+Goyal+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Engineer;Building+Production-Ready+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kalpit+Goyal+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Engineer;-Building+Production-Ready+AI+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
