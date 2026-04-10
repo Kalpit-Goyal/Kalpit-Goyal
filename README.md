@@ -1,12 +1,12 @@
 [![An image of @kalpitgoyal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kalpitgoyal)](https://holopin.io/@kalpitgoyal)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kalpit+Goyal+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Engineer;-Building+Production-Ready+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Kalpit+Goyal+%F0%9F%91%8B;Full+Stack+Developer;AI+%2F+ML+Engineer;%F0%9F%94%A8+Building+Production-Ready+AI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/kalpit-goyal-2b78462ab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kalpitgoyal12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="/cdn-cgi/l/email-protection#3259535e425b46555d4b535e030072555f535b5e1c515d5f"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Kalpit-Goyal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Kalpit-Goyal&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 </p>
@@ -67,8 +67,8 @@ A unified deep learning platform for detecting chest, skin, retinal, and brain d
 - 💻 Full-stack UI built with **Flask + ReactJS** — production-ready and live
 - 🧬 Targets real-world clinical AI challenges with multi-modal disease detection
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Kalpit-Goyal)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel)](https://github.com/Kalpit-Goyal)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Kalpit-Goyal/MediScan)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel)](https://kalpit-goyal.github.io/mediscan/)
 
 ---
 
@@ -80,7 +80,7 @@ ML pipeline predicting parking demand using temporal and geospatial features to 
 - 💡 Tiered pricing strategy to balance lot occupancy and maximize space utilization
 - 🏆 Capstone project — **Summer Analytics 2025, IIT Guwahati**
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Kalpit-Goyal)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Kalpit-Goyal/Summer-Analytics)
 
 ---
 
@@ -92,7 +92,7 @@ Hybrid deep learning + classical ML pipeline for multi-class brain tumor classif
 - 🤝 **EDN + SVM** hybrid for high-precision automated diagnostic assistance
 - 🏅 Delivered as Intel AI for Future Workforce Program capstone at BVCOE
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Kalpit-Goyal)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Kalpit-Goyal/BrainTumorDetection)
 
 ---
 
@@ -123,7 +123,7 @@ Hybrid deep learning + classical ML pipeline for multi-class brain tumor classif
 
 <p align="center">
   I'm always open to collaborating on <b>AI/ML projects</b>, <b>full-stack applications</b>, or anything that solves real-world problems.<br/><br/>
-  <a href="mailto:kalpitgoyal12@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#204b414c504954474f59414c111260474d41494c0e434f4d">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
@@ -132,6 +132,4 @@ Hybrid deep learning + classical ML pipeline for multi-class brain tumor classif
   </a>
 </p>
 
-<p align="center">
-  <i>"Building AI that explains itself — one Grad-CAM at a time."</i> 🔬
-</p>
+<p align=
