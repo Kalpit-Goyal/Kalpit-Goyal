@@ -77,7 +77,7 @@
 
 ### AI Engineer Intern — Arabazaar
 
-**Apr 2026 – Present · Remote**
+**Apr 2026 – Aug 2026 · Remote**
 
 Global B2B Trade Marketplace
 
